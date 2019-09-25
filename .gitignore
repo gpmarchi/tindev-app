@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# macos
+.DS_STORE
+
+# vscode
+.vscode
+
+# nodemon config file
+nodemon.json
